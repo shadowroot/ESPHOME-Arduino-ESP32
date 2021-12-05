@@ -1,0 +1,9 @@
+[submodule "ESPHOME-Arduino-ESP32/lib/RemoteArduino"]
+	path = ESPHOME-Arduino-ESP32/lib/RemoteArduino
+	url = https://github.com/JayLooi/RemoteArduino.git
+[submodule "ESPHOME-Arduino-ESP32/lib/nanopb"]
+	path = ESPHOME-Arduino-ESP32/lib/nanopb
+	url = https://github.com/nanopb/nanopb.git
+[submodule "ESPHOME-Arduino-ESP32/lib/Regexp"]
+	path = ESPHOME-Arduino-ESP32/lib/Regexp
+	url = https://github.com/nickgammon/Regexp.git
